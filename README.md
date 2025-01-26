@@ -3,9 +3,7 @@
 
 The creation of this website is for the purpose of furthering personal experience creating front-end programming including the understanding of JavaScript syntax and practice. Additionally, this website has the purpose of making music education resources available at no cost to all aspiring musicians of any age. This website uses Javascript to create event listeners and execute buttons and display options to learn each clef of music and then go forward and practice at three different levels.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/LMlTnTF6uCA)
 
 # Development Environment
 
