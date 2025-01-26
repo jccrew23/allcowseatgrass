@@ -1,0 +1,380 @@
+{"musicNotes" : [
+    {
+        "id": "asharp3",
+        "name": "A#",
+        "imgfile": "A#3.png",
+        "level" : "intermediate",
+        "clef" : "bass"
+    },
+    {
+       "id": "asharp4",
+        "name": "A#",
+        "imgfile": "A#4.png",
+        "level" : "intermediate",
+        "clef" : "treble"
+
+    },
+    {
+        "id": "a2",
+        "name": "A",
+        "imgfile": "A2.jpg",
+        "level" : "beginner",
+        "clef" : "bass"
+    },
+    {
+        "id": "bassa3",
+        "name": "A",
+        "imgfile": "A3.png",
+        "level" : "beginner",
+        "clef" : "bass"
+    },
+    {
+        "id": "treblea3",
+        "name": "A",
+        "imgfile": "A3T.jpg",
+        "level" : "intermediate",
+        "clef" : "treble"
+    },
+    {
+        "id": "a4",
+        "name": "A",
+        "imgfile": "A4.png",
+        "level" : "beginner",
+        "clef" : "treble"
+    },
+    {
+        "id": "a5",
+        "name": "A",
+        "imgfile": "A5.png",
+        "level" : "advanced",
+        "clef" : "treble"
+    },
+    {
+        "id": "aflat3",
+        "name": "Ab",
+        "imgfile": "Ab3.png",
+        "level" : "intermediate",
+        "clef" : "bass"
+    }, 
+    {
+        "id": "aflat4",
+        "name": "Ab",
+        "imgfile": "Ab4.png",
+        "level" : "intermediate",
+        "clef" : "treble"
+    },
+    {
+        "id": "b1",
+        "name": "B",
+        "imgfile": "B1.jpg",
+        "level" : "advanced",
+        "clef" : "bass"
+    },
+    {
+        "id": "b2",
+        "name": "B",
+        "imgfile": "B2.png",
+        "level" : "beginner",
+        "clef" : "bass"
+    },
+    {
+        "id": "b3",
+        "name": "B",
+        "imgfile": "B3.png",
+        "level" : "beginner",
+        "clef" : "bass"
+    },
+    {
+        "id": "trebleb3",
+        "name": "B",
+        "imgfile": "B3T.jpg",
+        "level" : "beginner",
+        "clef" : "treble"
+    },
+    {
+        "id": "b4",
+        "name": "B",
+        "imgfile": "B4.png",
+        "level" : "beginner",
+        "clef" : "treble"
+    },
+    {
+        "id": "bflat2",
+        "name": "B",
+        "imgfile": "Bb2.png",
+        "level" : "intermediate",
+        "clef" : "bass"
+    },
+    {
+        "id": "bflat4",
+        "name": "Bb",
+        "imgfile": "Bb4.png",
+        "level" : "intermediate",
+        "clef" : "treble"
+    },
+    {
+        "id": "C2",
+        "name": "C",
+        "imgfile": "C2.jpg",
+        "level" : "advanced",
+        "clef" : "bass"
+    },
+    {
+        "id": "csharp3",
+        "name": "C#",
+        "imgfile": "C3#.png",
+        "level" : "intermediate",
+        "clef" : "bass"
+    }, {
+        "id": "c3",
+        "name": "C",
+        "imgfile": "C3.png",
+        "level" : "beginner",
+        "clef" : "bass"
+    },
+    {
+        "id": "csharp4",
+        "name": "C#",
+        "imgfile": "C4#.png",
+        "level" : "intermediate",
+        "clef" : "treble"
+    },
+    {
+        "id": "c4",
+        "name": "C",
+        "imgfile": "C4.png",
+        "level" : "beginner",
+        "clef" : "treble"
+    },
+    {
+        "id": "csharp5",
+        "name": "C#",
+        "imgfile": "C5#.png",
+        "level" : "intermediate",
+        "clef" : "treble"
+    },
+    {
+        "id": "c5",
+        "name": "C",
+        "imgfile": "C5.png",
+        "level" : "beginner",
+        "clef" : "treble"
+    },
+    {
+        "id": "c6",
+        "name": "C",
+        "imgfile": "C6.jpg",
+        "level" : "advanced",
+        "clef" : "treble"
+    },
+    {
+        "id": "d2",
+        "name": "D",
+        "imgfile": "D2.jpg",
+        "level" : "advanced",
+        "clef" : "bass"
+    },
+    {
+        "id": "dsharp3",
+        "name": "D#",
+        "imgfile": "D3#.png",
+        "level" : "intermediate",
+        "clef" : "bass"
+    },
+    {
+        "id": "d3",
+        "name": "D",
+        "imgfile": "D3.png",
+        "level" : "beginner",
+        "clef" : "bass"
+    },
+    {
+        "id": "dsharp4",
+        "name": "D#",
+        "imgfile": "D4#.png",
+        "level" : "intermediate",
+        "clef" : "treble"
+    },
+    {
+        "id": "d4",
+        "name": "D",
+        "imgfile": "D4.png",
+        "level" : "beginner",
+        "clef" : "treble"
+    },
+    {
+        "id": "bassd4",
+        "name": "D",
+        "imgfile": "D4B.jpg",
+        "level" : "advanced",
+        "clef" : "bass"
+    },
+    {
+        "id": "dflat4",
+        "name": "Db",
+        "imgfile": "D4b.png",
+        "level" : "intermediate",
+        "clef" : "treble"
+    },
+    {
+        "id": "d5",
+        "name": "D",
+        "imgfile": "D5.png",
+        "level" : "beginner",
+        "clef" : "treble"
+    },
+    {
+        "id": "d6",
+        "name": "D",
+        "imgfile": "D6.jpg",
+        "level" : "advanced",
+        "clef" : "treble"
+    },
+    {
+        "id": "e2",
+        "name": "E",
+        "imgfile": "E2.jpg",
+        "level" : "advanced",
+        "clef" : "bass"
+    },
+    {
+        "id": "e3",
+        "name": "E",
+        "imgfile": "E3.png",
+        "level" : "beginner",
+        "clef" : "bass"
+    },
+    {
+        "id": "e4",
+        "name": "E",
+        "imgfile": "E4.png",
+        "level" : "beginner",
+        "clef" : "treble"
+    },
+    {
+        "id": "basse4",
+        "name": "E",
+        "imgfile": "E4B.jpg",
+        "level" : "advanced",
+        "clef" : "bass"
+    },
+    {
+        "id": "eflat4",
+        "name": "EB",
+        "imgfile": "E4b.png",
+        "level" : "intermediate",
+        "clef" : "treble"
+    },
+    {
+        "id": "e5",
+        "name": "E",
+        "imgfile": "E5.png",
+        "level" : "beginner",
+        "clef" : "treble"
+    },
+    {
+        "id": "eflat3",
+        "name": "Eb",
+        "imgfile": "Eb3.png",
+        "level" : "intermediate",
+        "clef" : "bass"
+    },
+    {
+        "id": "fsharp4",
+        "name": "F#",
+        "imgfile": "F#4.png",
+        "level" : "intermediate",
+        "clef" : "treble"
+    },
+    {
+        "id": "f2",
+        "name": "F",
+        "imgfile": "F2.jpg",
+        "level" : "advanced",
+        "clef" : "bass"
+    },
+    {
+        "id": "f3",
+        "name": "F",
+        "imgfile": "F3.png",
+        "level" : "beginner",
+        "clef" : "bass"
+    },
+    {
+        "id": "f4",
+        "name": "F",
+        "imgfile": "F4.png",
+        "level" : "beginner",
+        "clef" : "treble"
+    },
+    {
+        "id": "f5",
+        "name": "F",
+        "imgfile": "F5.png",
+        "level" : "beginner",
+        "clef" : "treble"
+    },
+    {
+        "id": "gsharp3",
+        "name": "G#",
+        "imgfile": "G#3.png",
+        "level" : "intermediate",
+        "clef" : "bass"
+    },
+    {
+        "id": "gsharp4",
+        "name": "G#",
+        "imgfile": "G#4.png",
+        "level" : "intermediate",
+        "clef" : "treble"
+    },
+    {
+        "id": "g2",
+        "name": "G",
+        "imgfile": "G2.png",
+        "level" : "beginner",
+        "clef" : "bass"
+    },
+    {
+        "id": "g3",
+        "name": "G",
+        "imgfile": "G3.png",
+        "level" : "beginner",
+        "clef" : "bass"
+    },
+    {
+        "id": "trebleg3",
+        "name": "G",
+        "imgfile": "G3T.jpg",
+        "level" : "advanced",
+        "clef" : "treble"
+    },
+    {
+        "id": "g4",
+        "name": "G",
+        "imgfile": "G4.png",
+        "level" : "beginner",
+        "clef" : "treble"
+    },
+    {
+        "id": "g5",
+        "name": "G",
+        "imgfile": "G5.png",
+        "level" : "advanced",
+        "clef" : "treble"
+    },
+    {
+        "id": "gflat3",
+        "name": "Gb",
+        "imgfile": "Gb3.png",
+        "level" : "intermediate",
+        "clef" : "bass"
+    },
+    {
+        "id": "gflat4",
+        "name": "Gb",
+        "imgfile": "Gb4.png",
+        "level" : "intermediate",
+        "clef" : "treble"
+    }
+]}

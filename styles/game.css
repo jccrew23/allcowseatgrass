@@ -1,0 +1,18 @@
+:root {
+    --mainFont: 'Sour Gummy', 'Sans-serif';
+}
+
+main {
+    max-width: 80%;
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 20px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+#gameCanvas {
+    background: transparent;
+    margin: auto;
+}   
